@@ -1,3 +1,4 @@
-#Print your name!
-
-#Pring your favorite subject!
+#Print your name! 
+print("Jaico")
+#Pring your favorite subject! physics 
+print("Physics")
